@@ -9,3 +9,6 @@ ex:string.split("-"), loops(while, for and if )
 strings, numeric, sequnce -> inbuilt function.
 
 3. basics of regular expresions in python ?
+Regular expresion is used to fine the perticular pattern in expression (re)
+
+
