@@ -3,6 +3,11 @@ Data Type: type of value that tells the whta kind of data it is and the data typ
 
 
 what are Functions in python ?
+Python has some inbult functions
+when you write a python check is there any inbuilt function
+ex:string.split("-"), loops(while, for and if )
+strings, numeric, sequnce -> inbuilt function.
+
 
 
 basics of regular expresions in python ?
