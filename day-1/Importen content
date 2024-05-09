@@ -1,3 +1,5 @@
 What is python?
 Python is high-level programing language. It is used in different platformas like web development, system scripting, application development, software development and so on..
 
+*if you want to run all the programs with linux command 
+for i in 'ls'; do python $i; done
